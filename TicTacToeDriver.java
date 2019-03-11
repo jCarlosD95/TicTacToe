@@ -1,4 +1,12 @@
  /***
+		  * NOTE:
+		  * The following project notes allude to an AI opponent.
+		  * This was a potential extra credit feature.
+		  * As I had already gotten plenty of extra credit from utilizing
+		  * the GUI library in this project, I decided to move on from this
+		  * project and not add AI. I may do that later just for fun or something.
+
+
 		  * How I'm going to implement players and AI
 		  * There will be a function that just places game pieces.
 		  * boolean takeYourTurn(boolean isPlayer1, int row, int column)
